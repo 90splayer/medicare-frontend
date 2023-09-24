@@ -81,7 +81,7 @@ const Footer = () => {
       <div className='container'>
       <div className='flex justify-between flex-col md:flex-row flex-wrap gap-[30px]'>
         <div>
-        <img src={logo} alt=''/>
+        <img src={logo} alt='' className='mb-2'/>
         <p className='text-[16px] leading-7 font-[400] text-textColor'>
         Copyright {year} developed by Michael Ojogbo all rights reserved.
         </p>

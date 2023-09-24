@@ -29,9 +29,9 @@ const Home = () => {
               <div className='lg:w-[570px]'>
               <h1 className='text-[36px] leading-[46px] text-headingColor font-[800]
                md:text-[60px] md:leading-[70px]'>We help patients live a healthy, longer life.</h1>
-               <p className='text__para'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-               Ut vel semper lectus, quis molestie mi. Pellentesque luctus efficitur mauris, 
-               sed tristique arcu ornare a. Proin.</p>
+               <p className='text__para'>At Virtual Care, we are dedicated to providing exceptional 
+               healthcare services to our community. With a commitment to excellence, compassion, 
+               and innovation, we strive to be your trusted partner on your journey to better health.</p>
                <button className='btn'>Request an Appointment</button>
               </div>
 
@@ -95,7 +95,7 @@ const Home = () => {
             Find a Doctor</h2>
             <p className='text-[16px] leading-7
              text-textColor font-[400] mt-4 text-center'>
-             World-class care for everyone. Our health system offers unmatched, expert health care. From the lab to the clinic.
+             Find a specialist of your choice from our range of experienced doctor.
              </p>
              <Link to='/doctors' className='w-[44px] h-[44px] rounded-full 
              border border-solid border-[#181A1E] mt-[30px] mx-auto 
@@ -113,7 +113,7 @@ const Home = () => {
             Find a Location</h2>
             <p className='text-[16px] leading-7
              text-textColor font-[400] mt-4 text-center'>
-             World-class care for everyone. Our health system offers unmatched, expert health care. From the lab to the clinic.
+             Find a doctor of your choice at your preffered location. From your home to the clinic.
              </p>
              <Link to='/doctors' className='w-[44px] h-[44px] rounded-full 
              border border-solid border-[#181A1E] mt-[30px] mx-auto 
@@ -131,7 +131,7 @@ const Home = () => {
             Book Appointment</h2>
             <p className='text-[16px] leading-7
              text-textColor font-[400] mt-4 text-center'>
-             World-class care for everyone. Our health system offers unmatched, expert health care. From the lab to the clinic.
+             World-class virtual care for everyone. Our health system offers unmatched, expert health care.
              </p>
              <Link to='/doctors' className='w-[44px] h-[44px] rounded-full 
              border border-solid border-[#181A1E] mt-[30px] mx-auto 
